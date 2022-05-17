@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArthurGurgel
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning SQL and C#
 - 💞️ I’m from Brasil
 - 📫 How to reach me arthurgurgel18@gmail.com or +55 63 9 81307900 on wpp 
 <!---
